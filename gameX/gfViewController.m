@@ -9,7 +9,7 @@
 #import "gfViewController.h"
 
 #define BUFFER_OFFSET(i) ((char *)NULL + (i))
-
+// extra comment
 // Uniform index.
 enum
 {
