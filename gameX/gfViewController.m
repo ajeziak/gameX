@@ -9,8 +9,10 @@
 #import "gfViewController.h"
 
 #define BUFFER_OFFSET(i) ((char *)NULL + (i))
-// extra comment
+// extra comment22222
 // Uniform index.
+
+
 enum
 {
     UNIFORM_MODELVIEWPROJECTION_MATRIX,
