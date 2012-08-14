@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <GLKit/GLKit.h>
-// changed on macbookpro
+// changed on mac
 @interface gfViewController : GLKViewController
 // extra comment
 //
